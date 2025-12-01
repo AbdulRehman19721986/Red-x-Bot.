@@ -24,10 +24,10 @@
 
 
   <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/ERFAN-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/AbdulRehman19721986/Red-x-Bot..git)/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ERFAN-Md/DARKZONE-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/AbdulRehman19721986/Red-x-Bot..git/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ERFAN-Md/DARKZONE-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/AbdulRehman19721986/Red-x-Bot..git/"><img title="Size" src="https://img.shields.io/github/repo-size/DARKZONE-MD/DARKZONE-BOT?style=flat-square&color=green"></a>
+<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/RedXBot?color=blue&style=flat-square"></a>
+<a href="https://github.com/AbdulRehman19721986/Red-x-Bot..git)/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AbdulRehman19721986/Red-x-Bot..git?color=blue&style=flat-square"></a>
+<a href="https://github.com/AbdulRehman19721986/Red-x-Bot..git/network/members"><img title="Forks" src="https://img.shields.io/github/forks/redxbot/redxbot?color=blue&style=flat-square"></a>
+<a href="https://github.com/AbdulRehman19721986/Red-x-Bot..git/"><img title="Size" src=""></a>
 <a href="https://github.com/AbdulRehman19721986/Red-x-Bot..git/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align="center">
@@ -36,7 +36,7 @@
   
 --- 
 
-<a center="https://ibb.co/GvT68BsK"><img src="https://files.catbox.moe/4964gx.jpg" alt="glow" border="0"></a>
+<a center="https://ibb.co/GvT68BsK"><img src="https://files.catbox.moe/tpmhul.jpg" alt="glow" border="0"></a>
 ***
 
 
@@ -46,7 +46,7 @@
 
 `FORK ðŸ´ AND STAR â­ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/DARKZONE-MD/DARKZONE-MD/fork"><img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-MDh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://files.catbox.moe/tpmhul.jpg/fork"><img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK-Red X Bot%20MD-MDh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. ðƒGET SESSION IDðƒ 
 
@@ -141,8 +141,8 @@
 </a>
 
 ### Join Our Community
-[![WhatsApp Group](https://img.shields.io/badge/Join_Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/H27rbX1EFLEJoQPrQD4WiO)
-[![WhatsApp Channel](https://img.shields.io/badge/Join_Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb5dDVO59PwTnL86j13J)
+[![WhatsApp Group](https://img.shields.io/badge/Join_Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Kgfpvhow7OZLZ8VvpnF7fI)
+[![WhatsApp Channel](https://img.shields.io/badge/Join_Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbBUbzt0wajxstOsUL09)
 
 ---
 ***
@@ -153,8 +153,8 @@
 <img src="https://i.giphy.com/media/XcQ0XH32ya0Gs3QNwk/giphy.webp" width="450" alt="sparkle-divider">
 
 <!-- Enhanced Glowing CTA Button -->
-<a href="https://github.com/DARKZONE-MD/DARKZONE-MD/fork">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&duration=2000&pause=500&color=FF9D00&background=1A1A1A&center=true&vCenter=true&width=550&repeat=true&lines=%E2%9A%A0%EF%B8%8F++FORK++%F0%9F%8D%B4++%26++STAR++%F0%9F%8C%9F++TO++SUPPORT++%E2%9A%A0%EF%B8%8F;%F0%9F%94%A5++HELP++GROW++THE++PROJECT++%F0%9F%94%A5" alt="CTA">
+<a href="https://github.com/Red X Bot/Red X Bot/fork">
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&duration=2000&pause=500&color=FF9D00&background=1A1A1A&center=true&vCenter=true&width=550&repeat=true&lines=%E2%9A%A0%EF%B8%8F++FORK++%F0%9F%8D%B4 ko it++%26++STAR++%F0%9F%8C%9F++TO++SUPPORT++%E2%9A%A0%EF%B8%8F;%F0%9F%94%A5++HELP++GROW++THE++PROJECT++%F0%9F%94%A5" alt="CTA">
 </a>
 
 <!-- New Feature Badges -->
