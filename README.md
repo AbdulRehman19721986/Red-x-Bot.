@@ -31,7 +31,7 @@
 <a href="https://github.com/AbdulRehman19721986/Red-x-Bot..git/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&pause=1000&color=5865F2&center=true&width=800&height=80&lines=MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ERFAN+AHMAD" alt="Bot Intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&pause=1000&color=5865F2&center=true&width=800&height=80&lines=MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+Abdul rehman+Rajpoot" alt="Bot Intro">
 </p>
   
 --- 
@@ -46,7 +46,7 @@
 
 `FORK ðŸ´ AND STAR â­ IF YOU LIKE THIS BOT`
 
-  <a href="https://files.catbox.moe/tpmhul.jpg/fork"><img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK-Red X Bot%20MD-MDh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://files.catbox.moe/tpmhul.jpg/fork"><img title="Red X Bot" src="https://img.shields.io/badge/FORK-Red X Bot%20MD-MDh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. ðƒGET SESSION IDðƒ 
 
@@ -85,7 +85,7 @@
     </tr>
     <tr>
       <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=DARKZONE-MD/DARKZONE-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=AbdulRehman19721986/Red-x-Bot." target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
@@ -100,7 +100,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/DARKZONE-MD/DARKZONE-MD" target="_blank">
+      <a href="https://github.com/AbdulRehman19721986/Red-x-Bot./fork" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
@@ -110,7 +110,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/DARKZONE-MD/DARKZONE-MD" target="_blank">
+      <a href="https://github.com/AbdulRehman19721986/Red-x-Bot."to target="_blank">
         <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
@@ -135,8 +135,8 @@
 ---
  ## ðŸ“ž Contact & Support
 
-### Project Owner: Erfan Ahmad
-<a href='https://wa.me/+923306137477?text=*HELLO+ERFAN+AHMAD+Éª+É´á´‡á´‡á´…+Êœá´‡ÊŸá´˜!.+Éª+á´á´‡ssá´€É¢á´‡á´…+Êá´á´œ+Ò“Ê€á´á´+DARKZONE-MD+Ê€á´‡á´˜á´!!*' target="_blank">
+### Project Owner: Abdul Rehman Rajpoot
+<a href='https://wa.me/+923446044324?text=*HI+ABDUL Rehman+Rajpoot+Éª+É´á´‡á´‡á´…+Êœá´‡ÊŸá´˜!.+Éª+á´á´‡ssá´€É¢á´‡á´…+Êá´á´œ+Ò“Ê€á´á´+DARKZONE-MD+Ê€á´‡á´˜á´!!*' target="_blank">
   <img alt='WhatsApp' src='https://img.shields.io/badge/Contact_Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 
