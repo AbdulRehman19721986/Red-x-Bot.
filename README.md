@@ -71,11 +71,11 @@
 
 ---
 
-### <h2 align="">DARKZONE-MD DEPLOYMENT OPTIONSðƒ</h2>
+### <h2 align="">Red X Bot DEPLOYMENT OPTIONSðƒ</h2>
 
 ---
 
-<p align="center">Deploy your <strong>DARKZONE-MD Bot</strong> with one click on your favorite hosting platforms.</p>
+<p align="center">Deploy your <strong>Red X Bot</strong> with one click on your favorite hosting platforms.</p>
 
 <div align="center">
   <table>
@@ -160,16 +160,16 @@
 <!-- New Feature Badges -->
 <div style="margin-top:25px">
   
-[![GitHub Forks](https://img.shields.io/badge/FORKS-%3F-00FFAA?style=for-the-badge&logo=github&labelColor=1A1A1A)](https://github.com/DARKZONE-MD/DARKZONE-MD/fork)
-[![GitHub Stars](https://img.shields.io/badge/STARS-%3F-00BFFF?style=for-the-badge&logo=github&labelColor=1A1A1A)](https://github.com/DARKZONE-MD/DARKZONE-MD)
-[![Active](https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&logo=vercel)](https://github.com/DARKZONE-MD/DARKZONE-MD)
+[![GitHub Forks](https://img.shields.io/badge/FORKS-%3F-00FFAA?style=for-the-badge&logo=github&labelColor=1A1A1A)](https://github.com/AbdulRehman19721986/Red-x-Bot./fork)
+[![GitHub Stars](https://img.shields.io/badge/STARS-%3F-00BFFF?style=for-the-badge&logo=github&labelColor=1A1A1A)](https://github.com/AbdulRehman19721986/Red-x-Bot.)
+[![Active](https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&logo=vercel)](https://github.com/AbdulRehman19721986/Red-x-Bot.)
 
 </div>
 
 <!-- New Animated Contributors -->
 <div style="margin-top:20px">
 
-[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/DARKZONE-MD/DARKZONE-MD/graphs/contributors)
+[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/AbdulRehman19721986/Red-x-Bot./fork/graphs/contributors)
 
 </div>
 
