@@ -46,26 +46,7 @@
 
 `FORK ðŸ´ AND STAR â­ IF YOU LIKE THIS BOT`
 
-  <a href="https://files.catbox.moe/tpmhul.jpg/fork"><img title="Red X Bot" src="https://img.shields.io/badge/FORK-Red X Bot%20MD-MDh?color=indigo&style=for-the-badge&logo=stackshare"></a>
-  
-### 2. ðƒGET SESSION IDðƒ 
-
-`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92300xxxxxx THEN YOU CAN GET YOUR SESSION_ID âœ `
-
-
-> **1. PAIR CODE SESSION ID**
-
-<a href='https://erfan-pair-site.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
-
-> **2. PAIR CODE SESSION ID**
-
-<a href='https://erfan-pair-site.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
+  <a href="https://files.catbox.moe/tpmhul.jpg/fork"><img title="Red X Bot" src="https://img.shields.io/badge/FORK-Red X Bot%20MD-MDh?color=indigo&style=for-the-badge&logo=stackshare"></a> 
 
 
 
